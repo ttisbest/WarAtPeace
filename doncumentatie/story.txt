@@ -1,0 +1,8 @@
+{het verhaal begint dat je in midden van een bos wakker word.}
+com: wie ben jij.
+input: the name of the player.{player}
+com: oke heey {player} ik zal je het begin even uitleggen.
+	(controls)
+	(menus)
+	(hoe je de com naardert)
+com: good luck
