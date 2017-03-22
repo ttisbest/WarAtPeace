@@ -1,0 +1,2 @@
+[naam van gear] [sterkte] [wat het is]
+-[survival gear]-[10]-[leren kleding om warm te blijven]-

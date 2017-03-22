@@ -5,4 +5,5 @@ com: oke heey {player} ik zal je het begin even uitleggen.
 	(controls)
 	(menus)
 	(hoe je de com naardert)
+	(het plot om het spel uit te spellen heb je 5 keys nodig om het geheimen gebouw te openen elke bevolking heeft 1 key[de keys zijn op 3 manieren te bemachtigen 1. stelen 2. krijgen voor een daad die je deet 3. kopen of ruilen])
 com: good luck

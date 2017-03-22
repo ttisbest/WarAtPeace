@@ -1,0 +1,2 @@
+[naam plek] [wat het is] [hoeveel gebouwen] [wat er is]
+-[osslo]-[stad]-[unknown]-[stadhuis/baraken/centrum]
